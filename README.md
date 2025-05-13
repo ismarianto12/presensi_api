@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://spring.io/images/spring-logo-7f2dfdc5c7b5dbef74b0c845f3df8a8d.svg" alt="Spring Boot Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png" alt="Spring Boot Logo" width="200"/>
 </p>
 
-<h1 align="center">Spring Boot Maven Project</h1>
+<h1 align="center">HRIS Pesensi System V.1</h1>
 
 <p align="center">
   🔧 Boilerplate dasar untuk aplikasi Java Spring Boot berbasis Maven
