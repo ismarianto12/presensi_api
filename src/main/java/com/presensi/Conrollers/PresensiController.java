@@ -37,6 +37,8 @@ public class PresensiController {
     public ResponseEntity<?> storeData(@RequestBody() Map<String, Object> list) {
         Map<String, Object> mappig = new HashMap();
         try {
+
+
             mappig.put("data", "");
             httpStatus = HttpStatus.OK;
         } catch (Exception e) {
